@@ -1,0 +1,693 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"page-",
+				"page-break-after"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/social.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/_site.scss",
+			"settings":
+			{
+				"buffer_size": 5464,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"selected_items":
+		[
+			[
+				"php",
+				"Tidy PHP"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL ",
+				"Package Control: Install Package"
+			],
+			[
+				"GIT",
+				"Git: Pull"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"pro",
+				"Project: Close"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Y/_resources/site-login.txt",
+		"/Z/hopethrougheducation/social-media.php",
+		"/Z/hopethrougheducation/sass/_site.scss",
+		"/Y/_resources/servers.txt",
+		"/Y/McDonald Arabians/vimeo.txt",
+		"/Z/hopethrougheducation/inc/top.php",
+		"/Z/hopethrougheducation/inc/java-social.php",
+		"/Z/hopethrougheducation/projects.php",
+		"/Z/hopethrougheducation/sass/app.scss",
+		"/Z/mcdonaldarabians.com/social/css/social.css",
+		"/C/Users/Jamie/AppData/Local/Temp/7zE4389259C/social.css",
+		"/C/Users/Jamie/Desktop/social.css",
+		"/Y/_Facebook/code-for-embedding/css/social.css",
+		"/Z/hopethrougheducation/javascripts/kmni/social.js",
+		"/C/Users/Jamie/Desktop/.htaccess",
+		"/Z/hopethrougheducation/gallery.php",
+		"/Z/hopethrougheducation/partners.php",
+		"/C/Sites/horsecms/app/assets/stylesheets/application.css.scss",
+		"/Z/hopethrougheducation/http_servlet_handler.rb",
+		"/Z/hopethrougheducation/index.php",
+		"/Z/hopethrougheducation/contact.php",
+		"/Z/hopethrougheducation/about.php",
+		"/Z/hopethrougheducation/sponsors.php",
+		"/Z/hopethrougheducation/donate.php",
+		"/Z/hopethrougheducation/inc/bottom.php",
+		"/Z/hopethrougheducation/sub.php",
+		"/C/Users/Jamie/Desktop/orderform/process_transaction.php",
+		"/C/Users/Jamie/Desktop/test.html",
+		"/Z/hopethrougheducation/sass/_settings.scss",
+		"/Z/hopethrougheducation/inc/bottom-partners.php",
+		"/Z/eaglemountainranch.com/index.html",
+		"/Z/culbrethequine.com/stylesheets/app.css",
+		"/Z/culbrethequine.com/index.html",
+		"/Z/hopethrougheducation/javascripts/foundation/app.js",
+		"/C/Users/Jamie/.ssh/id_rsa.pub",
+		"/C/Users/Jamie/.ssh/github_rsa.pub",
+		"/C/Users/Jamie/.ssh/known_hosts",
+		"/C/Users/Jamie/.ssh/livejamie",
+		"/C/Users/Jamie/.ssh/livejamie-ssh",
+		"/C/Users/Jamie/.ssh/livejamie.ppk",
+		"/C/Users/Jamie/.ssh/livejamie.pub",
+		"/C/Users/Jamie/.ssh/id_rsa",
+		"/C/Users/Jamie/.ssh/github_rsa",
+		"/C/Users/Jamie/.ssh/livejamie-openssh",
+		"/C/Users/Jamie/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Z/prfminiatures.com/about-us.php",
+		"/C/Users/Jamie/.compass/http_servlet_handler.rb",
+		"/Z/hopethrougheducation/sass/_mixins.scss",
+		"/C/Users/Jamie/Desktop/woothemes-FlexSlider-54e6d31/demo/thumbnail-slider.html",
+		"/Z/imperialmistaar.com/sass/_site.scss",
+		"/C/Users/Jamie/Desktop/wordpress/wp-config-sample.php",
+		"/Z/imperialmistaar2.com/sass/_site.scss",
+		"/Z/imperialmistaar2.com/index.html",
+		"/C/Users/Jamie/Desktop/testtt/index.html",
+		"/Z/imperialmistaar.com/sass/app.scss",
+		"/Z/imperialmistaar2.com/sass/app.scss",
+		"/Z/imperialmistaar2.com/sass/_settings.scss",
+		"/Z/imperialmistaar.com/sass/_settings.scss",
+		"/Z/imperialmistaar.com/index.html",
+		"/Z/kmni.com/index.html",
+		"/C/Users/Jamie/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Jamie/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Jamie/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Z/imperialmistaar.com/stylesheets/app.css",
+		"/Y/_resources/Rochadation/index.html",
+		"/Z/imperialmistaar.com/images/fancy.png",
+		"/Z/imperialmistaar.com/sass/_mixins.scss",
+		"/X/Arabhorse Backup/js/www.gerardpaty.com/web/content/galleria/galleria-1.2.8.js",
+		"/X/Arabhorse Backup/js/www.gerardpaty.com/web/content/galleria/galleria-1.2.8.min.js",
+		"/Z/kmni.com/less/site.less",
+		"/Z/kmni.com/blog.html",
+		"/Z/kmni.com/contact.html",
+		"/Z/bashirarabians.com/sass/_site.scss",
+		"/Z/bashirarabians.com/sass/app.scss",
+		"/Z/imperialmistaar.com/sass/_variables.scss",
+		"/C/Users/Jamie/Desktop/htaccess/www.kenelmarabians.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.glenbrookarabians.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.arha.net/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.miarabhorse.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.msuarabians.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.mahoganyhillarabians.com/web/content/htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.montheralnasser.com/htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.cedarbrookarabians.com/web/content/htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.belvederefarmllc.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.stonewallfarm.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.wcaha.org/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.heirloomhalters.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.qninedesign.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.pacificcoastbreederscup.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.arabianparkarabians.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.deerhavenarabians.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.battagliafarms.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.dolcecavalloinc.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.sweetwaterarab.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.mackaynearabian.com/web/content/htaccess.txt",
+		"/C/Users/Jamie/Desktop/htaccess/www.cedarbrookarabians.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.royalarabians.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.daydreamarabians.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.fitzpatrickperformancehorses.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.santaceciliaarabians.com/web/content/new/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.winterstarfarms.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.chrishanpark.com/web/content/htaccess.txt",
+		"/C/Users/Jamie/Desktop/htaccess/www.vitorioto.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.avaloncrest.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.sugarhillarabians.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.santaceciliaarabians.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.travistrainingcenterinc.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.travistrainingcenter.us/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.khizmehtarabians.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.mackaynearabian.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.schoukenstrainingcenter.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.csarabians.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.rolervickarabians.com/web/content/.htaccess.BAK",
+		"/C/Users/Jamie/Desktop/htaccess/www.rolervickarabians.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.featherarabians.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.oakridgearabians.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.robinhoodfarms.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.harashalim.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.bsfarabians.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.scottsdaleshow.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.kramer-training.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.lasrosasarabians.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.ironhorsefarm.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.redwoodlodgearabians.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.ironhorsefarms.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.coyotecreekarabians.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.iron-horse-farms.com/web/content/.htaccess",
+		"/C/Users/Jamie/Desktop/htaccess/www.grandarabian.com/web/content/.htaccess"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Social.",
+			"galler",
+			"ga;;ery",
+			"project",
+			"iframe",
+			"width",
+			"clear",
+			"small",
+			"facebook",
+			"main-content",
+			"15",
+			"20px",
+			"text-shadow",
+			"border-radius",
+			"border",
+			"top-soc",
+			"radius",
+			"border-rad",
+			"box-s",
+			"#888",
+			"#fff",
+			"display:none",
+			"kmni.com",
+			"hide-for",
+			"show-",
+			"box-sh",
+			"logo",
+			"open sans",
+			"ctrl+b",
+			"side_bar",
+			"middle !im",
+			"middle",
+			"base54",
+			"footbar",
+			"white",
+			"whitespace",
+			"base64",
+			"eval",
+			"C:\\Users\\Jamie\\Desktop\\arabhorse\\",
+			"line_padding",
+			"highlight_mo",
+			"highlight",
+			"home-con",
+			"uppercase",
+			"map",
+			"text-s",
+			"+",
+			"enter",
+			"ctrl+alt",
+			"Commit",
+			"Tortoise Status",
+			"more from",
+			"more product",
+			"d8d8d8",
+			"item-thumb",
+			"mini-slider",
+			"616",
+			"three-per-row",
+			"two-per-row",
+			"orbit/",
+			"lightbox8 ",
+			"rel=\"shadowbox[principal]\" rel=\"shadowbox[principal]\"",
+			"class=\"hidden\"",
+			"lightbox3 ",
+			"georgia",
+			"</head>",
+			" style=\"color: rgb(34, 34, 34); line-height: normal; text-align: -webkit-auto; font-size: 14px; font-family: Arial; \"",
+			"whitespace",
+			"tab"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$darkGray",
+			"$white",
+			"",
+			"rel=\"shadowbox[principal]\"",
+			"rel=\"shadowbox[principal]\" class=\"hidden\"",
+			"",
+			"<script type=\"text/javascript\">\n\n  var _gaq = _gaq || [];\n  _gaq.push(['_setAccount', 'UA-32476562-13']);\n  _gaq.push(['_trackPageview']);\n\n  (function() {\n    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n  })();\n\n</script>\n</head>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/social.css",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sass/_site.scss",
+					"settings":
+					{
+						"buffer_size": 5464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4292,
+								4292
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2361.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 138.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Z/paarabians.com/paarabians.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 328.0,
+	"status_bar_visible": true
+}
