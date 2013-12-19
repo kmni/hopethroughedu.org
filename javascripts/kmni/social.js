@@ -6,6 +6,7 @@ Social = {
       access_token: access_token
     };
     $.getJSON(url, params, function(data) {
+      console.log(data);
       $("#facebook").html($.tmpl($("#facebook_template"), data.data));
       $("#facebook abbr.timeago").timeago();
       $("#facebook").autolink();
@@ -22,7 +23,7 @@ Social = {
 
   twitter: function(id) {
     var params, url;
-    url = "http://api.twitter.com/1/statuses/user_timeline.json?callback=?";
+    url = "https://api.twitter.com/1.1/statuses/user_timeline.json";
     params = {
       include_rts: "1",
       screen_name: id

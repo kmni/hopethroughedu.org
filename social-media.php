@@ -79,6 +79,7 @@
   // "392120024178056|aqQUlwOblkyuLzKmxZm39SeBVck" is Facebook authentication token
   $(function() {
     Social.facebook("148297208634757", "392120024178056|aqQUlwOblkyuLzKmxZm39SeBVck");
+    //Social.facebook("176971642349584", "392120024178056|aqQUlwOblkyuLzKmxZm39SeBVck");
   });
   </script>
 
@@ -107,15 +108,18 @@
   </script>
   <script>
     // "arabhorse" is Twitter name
-          $(function() {
-    Social.twitter("arabhorse");
-  });
+    $(function() {
+      Social.twitter("arabhorse");
+      //Social.twitter(15508444);
+    });
   </script>
   <!-- Twitter END -->
 </li>
 <li id="simple3Tab">
   <!-- YouTube BEGIN -->
-  <div id="youtube_player"></div>
+  <div id="youtube_player">
+    <iframe width="420" height="315" src="//www.youtube.com/embed/w64vLxUzUjU?rel=0" frameborder="0" allowfullscreen></iframe>
+  </div>
   <ul id="youtube">
     <li>Loading…</li>
   </ul>
@@ -132,9 +136,9 @@
       <p>${media$group.media$description.$t}</p>
     </li>
   </script>
-  <script id="youtube_player_template" type="text/x-jquery-tmpl">
+  <!--script id="youtube_player_template" type="text/x-jquery-tmpl">
     <iframe allowFullScreen frameborder="0" height="281" src="http://www.youtube.com/embed/${id}?rel=0{{if autoPlay }}&amp;autoplay=1{{/if}}" width="500"></iframe>
-  </script>
+  </script-- >
   <script>
   $(function() {
     //<![CDATA[
