@@ -40,18 +40,18 @@
 		</div>
 		<div class="four columns">
 			<h3>Stay Up To Date</h3>
-            <div class="row collapse sign-up">
-                <div class="nine mobile-three columns">
-                    <input type="text" value="your@email.com" onclick="this.value = '';">
-                </div>
-                <div class="three mobile-one columns">
-                    <a class="button expand postfix">Sign-Up</a>
+            <div class="row collapse sign-up" id="mc_embed_signup_home">
+                <div class="mobile-three columns">
+                	<form action="http://hopethroughedu.us6.list-manage2.com/subscribe/post?u=a92913e9a809c3284c936ec58&amp;id=8e77958688" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                		<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+                		<input type="submit" value="Sign-Up" name="subscribe" id="mc-embedded-subscribe" class="button">
+                    </form>
                 </div>
             </div>
 		</div>
 		<div class="four columns">
 			<h3>Facebook</h3>
-			<div class="fb-like-box" data-href="http://www.facebook.com/pages/Hope-Through-Education-Inc/148297208634757" width="800" data-show-faces="true" data-border-color="#541700" data-stream="false" data-header="true"></div>
+			<div class="fb-like-box" data-href="https://www.facebook.com/HopeThroughEducationInc" width="800" data-show-faces="true" data-border-color="#541700" data-stream="false" data-header="true"></div>
 		</div>
 	</div>
 <?php include "inc/bottom-partners.php"; ?>

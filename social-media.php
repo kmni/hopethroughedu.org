@@ -13,11 +13,12 @@
   <ul id="facebook">
     <li>Loading…</li>
   </ul>
+  <br>
   <ul id="facebook_albums">
     <li>Loading…</li>
   </ul>
   <script id="facebook_template" type="text/x-jquery-tmpl">
-    {{if type != "status" || typeof message != "undefined"}}
+    {{if type != "status" || typeof message != "undefined" || typeof caption != "undefined"}}
     <li>
       <div class="header">
         <a href="http://www.facebook.com/profile.php?id=${from.id}" target="_blank"><img alt="picture" src="https://graph.facebook.com/${from.id}/picture">
@@ -78,8 +79,8 @@
   // "103882419703669" is Facebook page ID
   // "392120024178056|aqQUlwOblkyuLzKmxZm39SeBVck" is Facebook authentication token
   $(function() {
-    Social.facebook("148297208634757", "392120024178056|aqQUlwOblkyuLzKmxZm39SeBVck");
-    //Social.facebook("176971642349584", "392120024178056|aqQUlwOblkyuLzKmxZm39SeBVck");
+    Social.facebook("478963585508160", "392120024178056|aqQUlwOblkyuLzKmxZm39SeBVck");
+    //Social.facebook("158761784157668", "392120024178056|aqQUlwOblkyuLzKmxZm39SeBVck");
   });
   </script>
 
@@ -109,7 +110,7 @@
   <script>
     // "arabhorse" is Twitter name
     $(function() {
-      Social.twitter("arabhorse");
+      //Social.twitter("arabhorse");
       //Social.twitter(15508444);
     });
   </script>
@@ -120,7 +121,7 @@
   <div id="youtube_player">
     <iframe width="420" height="315" src="//www.youtube.com/embed/w64vLxUzUjU?rel=0" frameborder="0" allowfullscreen></iframe>
   </div>
-  <ul id="youtube">
+  <!--ul id="youtube">
     <li>Loading…</li>
   </ul>
   <script id="youtube_template" type="text/x-jquery-tmpl">
@@ -135,11 +136,12 @@
         <span>${Social.formatVideoDuration(media$group.yt$duration.seconds)}</span>
       <p>${media$group.media$description.$t}</p>
     </li>
-  </script>
+  </script-->
+
   <!--script id="youtube_player_template" type="text/x-jquery-tmpl">
     <iframe allowFullScreen frameborder="0" height="281" src="http://www.youtube.com/embed/${id}?rel=0{{if autoPlay }}&amp;autoplay=1{{/if}}" width="500"></iframe>
   </script-- >
-  <script>
+  <!--script>
   $(function() {
     //<![CDATA[
       Social.youtube("iEquineMedia");
@@ -147,6 +149,7 @@
       });
   </script>
   <!-- YouTube END -->
+
   </li>
   </ul>
     </div>

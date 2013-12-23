@@ -28,6 +28,24 @@ body { background: white; font-family: "Titillium Web", "Helvetica Neue", "Helve
 #mc_embed_signup #mce-success-response {color:#529214; display:none;}
 #mc_embed_signup label.error {display:block; float:none; width:auto; margin-left:1.05em; text-align:left; padding:.5em 0;}
 
+#mc_embed_signup_home {}
+#mc_embed_signup_home input.email {display:inline; padding:8px 0; margin:0 1% 10px 0; text-indent:5px; width:30%; min-width: 210px;}
+#mc_embed_signup_home input.button {display:inline; width:15%; padding: 4px 10px; margin:10px 0 30px 0; min-width: 70px;}
+#mc_embed_signup_home div#mce-responses {float:left; top:-1.4em; padding:0em .5em 0em .5em; overflow:hidden; width:90%;margin: 0 5%; clear: both;}
+#mc_embed_signup_home div.response {margin:1em 0; padding:1em .5em .5em 0; font-weight:bold; float:left; top:-1.5em; z-index:1; width:80%;}
+#mc_embed_signup_home #mce-error-response {display:none;}
+#mc_embed_signup_home #mce-success-response {color:#529214; display:none;}
+#mc_embed_signup_home label.error {display:block; float:none; width:auto; margin-left:1.05em; text-align:left; padding:.5em 0;}
+
+#mc_embed_signup_bottom form {width: 100%; text-align: right; padding: 0; margin: 0;}
+#mc_embed_signup_bottom input.email {display:inline; padding: 8px 0; margin: 0; text-indent:5px; width:70%; min-width: 210px;}
+#mc_embed_signup_bottom input.button {display:inline; width:26%; padding: 4px 20px!important; margin: 0 0 0 0; min-width: 70px;}
+#mc_embed_signup_bottom div#mce-responses {float:left; top:-1.4em; padding:0em .5em 0em .5em; overflow:hidden; width:90%;margin: 0 5%; clear: both;}
+#mc_embed_signup_bottom div.response {margin:1em 0; padding:1em .5em .5em 0; font-weight:bold; float:left; top:-1.5em; z-index:1; width:80%;}
+#mc_embed_signup_bottom #mce-error-response {display:none;}
+#mc_embed_signup_bottom #mce-success-response {color:#529214; display:none;}
+#mc_embed_signup_bottom label.error {display:block; float:none; width:auto; margin-left:1.05em; text-align:left; padding:.5em 0;}
+
 .flexslider p{
 	background-color:#033163;
 	color:#fff;
@@ -1336,7 +1354,7 @@ Brooks doesn't think we need to set a height
 
 #facebook li { border-bottom: 1px solid #CCC; list-style: none outside none; min-height: 110px; padding: 25px 0; }
 
-#facebook_albums li { float: left; height: 300px; list-style: none outside none; padding: 0 15px; width: 180px; }
+#facebook_albums li { float: left; height: 200px; list-style: none outside none; padding: 0 15px; width: 180px; }
 
 #facebook_albums img { display: block; }
 
