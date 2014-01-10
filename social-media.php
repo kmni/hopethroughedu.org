@@ -3,8 +3,8 @@
     <h1>Social Media</h1>
     <div class="twelve columns main-content">
 <dl class="tabs three-up">
-  <dd class="active"><a href="#simple1">Facebook</a></dd>
-  <dd><a href="#simple2">Twitter</a></dd>
+  <dd class="active"><a href="#simple1">Facebook</a></dd>  
+  <!-- <dd><a href="#simple2">Twitter</a></dd> -->
   <dd><a href="#simple3">YouTube</a></dd>
 </dl>  
 <ul class="tabs-content">
@@ -18,7 +18,7 @@
     <li>Loading…</li>
   </ul>
   <script id="facebook_template" type="text/x-jquery-tmpl">
-    {{if type != "status" || typeof message != "undefined" || typeof caption != "undefined"}}
+    {{if (type != "status" || typeof message != "undefined") && (type != "link" || typeof message != "undefined")}}
     <li>
       <div class="header">
         <a href="http://www.facebook.com/profile.php?id=${from.id}" target="_blank"><img alt="picture" src="https://graph.facebook.com/${from.id}/picture">
