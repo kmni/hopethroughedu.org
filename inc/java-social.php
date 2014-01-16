@@ -44,6 +44,8 @@
 
     <script src="javascripts/kmni/twitter-text.js"></script>
 
+    <script src="javascripts/kmni/twitter-fetcher.js"></script>
+
     <script src="javascripts/kmni/social.js"></script>
 
   <!-- Application Javascript, safe to override -->

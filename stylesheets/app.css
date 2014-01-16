@@ -1364,7 +1364,7 @@ Brooks doesn't think we need to set a height
 
 #facebook_albums a { font-weight: bold; }
 
-#twitter li { margin-bottom: 30px; list-style: none; }
+#twitter li { border-bottom: 1px solid #CCC; list-style: none outside none; min-height: 110px; padding: 25px 0; }
 
 #youtube li { margin-bottom: 30px; list-style: none; }
 

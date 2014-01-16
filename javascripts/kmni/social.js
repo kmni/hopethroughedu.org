@@ -6,8 +6,8 @@ Social = {
       access_token: access_token
     };
     $.getJSON(url, params, function(data) {
-      console.log(data);
       $("#facebook").html($.tmpl($("#facebook_template"), data.data));
+      console.log(data.data);
       $("#facebook abbr.timeago").timeago();
       $("#facebook").autolink();
     });
@@ -22,15 +22,34 @@ Social = {
   },
 
   twitter: function(id) {
-    var params, url;
-    url = "https://api.twitter.com/1.1/statuses/user_timeline.json";
-    params = {
-      include_rts: "1",
-      screen_name: id
+    var dateFormatter;
+    dateFormatter = function(date) {
+      var pad;
+      pad = function(n) {
+        if (n < 10) {
+          return "0" + n;
+        } else {
+          return n;
+        }
+      };
+      return date.getUTCFullYear() + "-" + pad(date.getUTCMonth() + 1) + "-" + pad(date.getUTCDate()) + "T" + pad(date.getUTCHours()) + ":" + pad(date.getUTCMinutes()) + ":" + pad(date.getUTCSeconds()) + "Z";
     };
-    $.getJSON(url, params, function(data) {
+    twitterFetcher.fetch(id, "", 10, true, true, true, dateFormatter, true, function(tweets) {
+      var data;
+      data = tweets.map(function(tweet) {
+        var $tweet;
+        $tweet = $(tweet);
+        return {
+          name: $tweet.find("[data-scribe=\"element:name\"]").html(),
+          screen_name: $tweet.find("[data-scribe=\"element:screen_name\"]").html(),
+          avatar: $tweet.find("[data-scribe=\"element:avatar\"]").attr("src"),
+          tweet: $.mobile ? $tweet.next(".tweet").text() : $tweet.next(".tweet").html(),
+          created_at: $tweet.next(".timePosted").text(),
+          url: $tweet.find("[data-scribe=\"element:user_link\"]").attr("href")
+        };
+      });
       $("#twitter").html($.tmpl($("#twitter_template"), data));
-      return $("#twitter abbr.timeago").timeago();
+      $("#twitter abbr.timeago").timeago();
     });
   },
 
@@ -44,11 +63,11 @@ Social = {
   vimeo: function(id, source) {
     var source_path, url;
     switch (source) {
-      case "user":
-        source_path = "/";
-        break;
-      case "channel":
-        source_path = "/channel/";
+    case "user":
+      source_path = "/";
+      break;
+    case "channel":
+      source_path = "/channel/";
     }
     if (!source_path) {
       return;
