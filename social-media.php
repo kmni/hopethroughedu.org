@@ -107,7 +107,7 @@
         <script>
           // "423772945698148352" is Twitter widget ID (you need to create widget on Twitter website first)
           $(function() {
-            Social.twitter("423772945698148352");
+            Social.twitter("438337990494924800");
           });
         </script>
         <!-- Twitter END -->
